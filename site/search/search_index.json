@@ -1,0 +1,29 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "My Wiki\n\n\nProject documentation with Markdown.\n\n\n\n\nOverview\n\n\nThis is where I do things",
+            "title": "Home"
+        },
+        {
+            "location": "/#my-wiki",
+            "text": "Project documentation with Markdown.",
+            "title": "My Wiki"
+        },
+        {
+            "location": "/#overview",
+            "text": "This is where I do things",
+            "title": "Overview"
+        },
+        {
+            "location": "/purpose/",
+            "text": "What?\n\n\nEven more things here",
+            "title": "Purpose"
+        },
+        {
+            "location": "/purpose/#what",
+            "text": "Even more things here",
+            "title": "What?"
+        }
+    ]
+}
