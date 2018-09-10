@@ -1,0 +1,8 @@
+site_name: My Wiki
+# theme: readthedocs
+
+pages:
+- Home: index.md
+- Wiki:
+  - Purpose: purpose.md
+
