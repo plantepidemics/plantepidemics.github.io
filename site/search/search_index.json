@@ -2,18 +2,18 @@
     "docs": [
         {
             "location": "/",
-            "text": "My Wiki\n\n\nProject documentation with Markdown.\n\n\n\n\nOverview\n\n\nThis is where I do things",
+            "text": "Controlling Plant Disease Epidemics\n\n\nProject documentation with Markdown.\n\n\n\n\nCassava Brown Streak Disease\n\n\nThis is where I do things",
             "title": "Home"
         },
         {
-            "location": "/#my-wiki",
+            "location": "/#controlling-plant-disease-epidemics",
             "text": "Project documentation with Markdown.",
-            "title": "My Wiki"
+            "title": "Controlling Plant Disease Epidemics"
         },
         {
-            "location": "/#overview",
+            "location": "/#cassava-brown-streak-disease",
             "text": "This is where I do things",
-            "title": "Overview"
+            "title": "Cassava Brown Streak Disease"
         },
         {
             "location": "/purpose/",
