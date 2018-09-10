@@ -1,5 +1,5 @@
-site_name: My Wiki
-# theme: readthedocs
+site_name: Controlling Plant Disease Epidemics
+theme: readthedocs
 
 pages:
 - Home: index.md

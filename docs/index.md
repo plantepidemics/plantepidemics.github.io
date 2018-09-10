@@ -1,10 +1,10 @@
-# My Wiki
+# Controlling Plant Disease Epidemics
 
 Project documentation with Markdown.
 
 ---
 
-## Overview
+## Cassava Brown Streak Disease
 
 This is where I do things
 
