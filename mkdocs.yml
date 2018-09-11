@@ -1,8 +1,6 @@
-site_name: Controlling Plant Disease Epidemics
+site_name: Plant Epidemics
 theme: readthedocs
 
 pages:
 - Home: index.md
-- Wiki:
-  - Purpose: purpose.md
-
+- Cassava Brown Streak Disease: cbsd.md
