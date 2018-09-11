@@ -1,6 +1,0 @@
-site_name: Plant Epidemics
-theme: readthedocs
-
-pages:
-- Home: index.md
-- Cassava Brown Streak Disease: cbsd.md

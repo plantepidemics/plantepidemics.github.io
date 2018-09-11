@@ -1,0 +1,44 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to Plant Epidemics\n\n\nProject documentation with Markdown. This is where I do things\n\n\n\n\nAbout us\n\n\nHello, this is me.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-plant-epidemics",
+            "text": "Project documentation with Markdown. This is where I do things",
+            "title": "Welcome to Plant Epidemics"
+        },
+        {
+            "location": "/#about-us",
+            "text": "Hello, this is me.",
+            "title": "About us"
+        },
+        {
+            "location": "/cbsd/",
+            "text": "Cassava Brown Streak Disease\n\n\nEven more things here\n\n\nThe Problem\n\n\nThe Model\n\n\n\n\nManagement",
+            "title": "Cassava Brown Streak Disease"
+        },
+        {
+            "location": "/cbsd/#cassava-brown-streak-disease",
+            "text": "Even more things here",
+            "title": "Cassava Brown Streak Disease"
+        },
+        {
+            "location": "/cbsd/#the-problem",
+            "text": "",
+            "title": "The Problem"
+        },
+        {
+            "location": "/cbsd/#the-model",
+            "text": "",
+            "title": "The Model"
+        },
+        {
+            "location": "/cbsd/#management",
+            "text": "",
+            "title": "Management"
+        }
+    ]
+}
