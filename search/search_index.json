@@ -2,43 +2,38 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to Plant Epidemics\n\n\nProject documentation with Markdown. This is where I do things\n\n\n\n\nAbout us\n\n\nHello, this is me.",
+            "text": "Welcome to Plant Epidemics\n\n\nPlant disease epidemics cause major economic shocks and reductions in food production. Epidemics can be especially harmful in developing countries where communities are often highly dependant on agriculture for subsistence and household income.\n\n\nThis website is a repository for prediction and management simulations of a number of plant disease epidemics by the \nEpidemiology and Modelling Group, University of Cambridge\n. \n\n\n\n\n\n\n\n\n\nSimulated spread of CBSD from Cameroon to Nigeria. Preliminary results.\n\n\nInitially, this repository will focus on Cassava Brown Streak Disease (CBSD). Cassava is a staple crop for approximately 500 million people in sub-Saharan Africa. \n\n\nCBSD has been endemic in coastal East Africa and along the shore of Lake Malawi since the 1930s. In 2004, CBSD was observed near Kampala, Uganda. Since\n2004, it has spread widely throughout previously uninfected regions and threatens production in Central and West Africa. \n\n\nOur research focusses on predicting future spread and optimal management strategies to counteract spread in endemic and currently uninfected regions.\n\n\nAbout us\n\n\nPlant Epidemics is maintained by David Godding and Dr Rich Stutt, members of the \nEpidemiology and Modelling Group\n. The group is led by Professor Chris Gilligan. Feel free to get in touch if you have any questions.\n\n\nContacts\n\n\n\n\nDavid Godding: \ndsg38@cam.ac.uk\n\n\nDr Rich Stutt: \nrs481@cam.ac.uk\n\n\nProfessor Chris Gilligan: \ncag1@cam.ac.uk\n\n\n\n\nFunders and partners\n\n\nThis work is funded by The Bill and Melinda Gates Foundation. We work closely with a number of partner research organisations.\n\n\n\n\nThe \nWest African Virus Epidemiology project\n (WAVE) is coordinated in C\u00f4te D'Ivoire and works throughout West and Central Africa.\n\n\nThe National Crops Resources Research Institute\n (NaCRRI), Uganda\n\n\nThe Cassava Diagnostics Project (CDP) is coordinated by the Mikocheni Agricultural Research Institute in Tanzania and works throughout East Africa.",
             "title": "Home"
         },
         {
             "location": "/#welcome-to-plant-epidemics",
-            "text": "Project documentation with Markdown. This is where I do things",
+            "text": "Plant disease epidemics cause major economic shocks and reductions in food production. Epidemics can be especially harmful in developing countries where communities are often highly dependant on agriculture for subsistence and household income.  This website is a repository for prediction and management simulations of a number of plant disease epidemics by the  Epidemiology and Modelling Group, University of Cambridge .      Simulated spread of CBSD from Cameroon to Nigeria. Preliminary results.  Initially, this repository will focus on Cassava Brown Streak Disease (CBSD). Cassava is a staple crop for approximately 500 million people in sub-Saharan Africa.   CBSD has been endemic in coastal East Africa and along the shore of Lake Malawi since the 1930s. In 2004, CBSD was observed near Kampala, Uganda. Since\n2004, it has spread widely throughout previously uninfected regions and threatens production in Central and West Africa.   Our research focusses on predicting future spread and optimal management strategies to counteract spread in endemic and currently uninfected regions.",
             "title": "Welcome to Plant Epidemics"
         },
         {
             "location": "/#about-us",
-            "text": "Hello, this is me.",
+            "text": "Plant Epidemics is maintained by David Godding and Dr Rich Stutt, members of the  Epidemiology and Modelling Group . The group is led by Professor Chris Gilligan. Feel free to get in touch if you have any questions.",
             "title": "About us"
         },
         {
+            "location": "/#contacts",
+            "text": "David Godding:  dsg38@cam.ac.uk  Dr Rich Stutt:  rs481@cam.ac.uk  Professor Chris Gilligan:  cag1@cam.ac.uk",
+            "title": "Contacts"
+        },
+        {
+            "location": "/#funders-and-partners",
+            "text": "This work is funded by The Bill and Melinda Gates Foundation. We work closely with a number of partner research organisations.   The  West African Virus Epidemiology project  (WAVE) is coordinated in C\u00f4te D'Ivoire and works throughout West and Central Africa.  The National Crops Resources Research Institute  (NaCRRI), Uganda  The Cassava Diagnostics Project (CDP) is coordinated by the Mikocheni Agricultural Research Institute in Tanzania and works throughout East Africa.",
+            "title": "Funders and partners"
+        },
+        {
             "location": "/cbsd/",
-            "text": "Cassava Brown Streak Disease\n\n\nEven more things here\n\n\nThe Problem\n\n\nThe Model\n\n\n\n\nManagement",
+            "text": "Cassava Brown Streak Disease\n\n\nUnder development",
             "title": "Cassava Brown Streak Disease"
         },
         {
             "location": "/cbsd/#cassava-brown-streak-disease",
-            "text": "Even more things here",
+            "text": "Under development",
             "title": "Cassava Brown Streak Disease"
-        },
-        {
-            "location": "/cbsd/#the-problem",
-            "text": "",
-            "title": "The Problem"
-        },
-        {
-            "location": "/cbsd/#the-model",
-            "text": "",
-            "title": "The Model"
-        },
-        {
-            "location": "/cbsd/#management",
-            "text": "",
-            "title": "Management"
         }
     ]
 }
