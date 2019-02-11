@@ -7,24 +7,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="None">
   
-  <link rel="shortcut icon" href="./img/favicon.ico">
-  <title>Home - Plant Epidemics</title>
+  <link rel="shortcut icon" href="img/favicon.ico">
+  <title>Home - Epidemiology and Modelling, University of Cambridge</title>
   <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
 
-  <link rel="stylesheet" href="./css/theme.css" type="text/css" />
-  <link rel="stylesheet" href="./css/theme_extra.css" type="text/css" />
-  <link rel="stylesheet" href="./css/highlight.css">
+  <link rel="stylesheet" href="css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="css/theme_extra.css" type="text/css" />
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
   
   <script>
     // Current page data
     var mkdocs_page_name = "Home";
     var mkdocs_page_input_path = "index.md";
-    var mkdocs_page_url = "/";
+    var mkdocs_page_url = null;
   </script>
   
-  <script src="./js/jquery-2.1.1.min.js"></script>
-  <script src="./js/modernizr-2.8.3.min.js"></script>
-  <script type="text/javascript" src="./js/highlight.pack.js"></script> 
+  <script src="js/jquery-2.1.1.min.js" defer></script>
+  <script src="js/modernizr-2.8.3.min.js" defer></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
   
 </head>
 
@@ -35,10 +36,10 @@
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
       <div class="wy-side-nav-search">
-        <a href="." class="icon icon-home"> Plant Epidemics</a>
+        <a href="." class="icon icon-home"> Epidemiology and Modelling, University of Cambridge</a>
         <div role="search">
   <form id ="rtd-search-form" class="wy-form" action="./search.html" method="get">
-    <input type="text" name="q" placeholder="Search docs" />
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
   </form>
 </div>
       </div>
@@ -52,18 +53,13 @@
     <a class="current" href=".">Home</a>
     <ul class="subnav">
             
-    <li class="toctree-l2"><a href="#welcome-to-plant-epidemics">Welcome to Plant Epidemics</a></li>
+    <li class="toctree-l2"><a href="#epidemiology-and-modelling-group-university-of-cambridge">Epidemiology and Modelling Group, University of Cambridge</a></li>
     
 
     <li class="toctree-l2"><a href="#about-us">About us</a></li>
     
-        <ul>
-        
-            <li><a class="toctree-l3" href="#contacts">Contacts</a></li>
-        
-            <li><a class="toctree-l3" href="#funders-and-partners">Funders and partners</a></li>
-        
-        </ul>
+
+    <li class="toctree-l2"><a href="#contact-us">Contact us</a></li>
     
 
     </ul>
@@ -71,7 +67,23 @@
           
             <li class="toctree-l1">
 		
-    <a class="" href="cbsd/">Cassava Brown Streak Disease</a>
+    <span class="caption-text">Research</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <a class="" href="research/overview/">Overview</a>
+                </li>
+    </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="people/">Lab members</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="news/">News</a>
 	    </li>
           
         </ul>
@@ -84,7 +96,7 @@
       
       <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
         <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-        <a href=".">Plant Epidemics</a>
+        <a href=".">Epidemiology and Modelling, University of Cambridge</a>
       </nav>
 
       
@@ -106,33 +118,26 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="welcome-to-plant-epidemics">Welcome to Plant Epidemics</h1>
-<p>Plant disease epidemics cause major economic shocks and reductions in food production. Epidemics can be especially harmful in developing countries where communities are often highly dependant on agriculture for subsistence and household income.</p>
-<p>This website is a repository for prediction and management simulations of a number of plant disease epidemics by the <a href="https://www.plantsci.cam.ac.uk/research/chrisgilligan">Epidemiology and Modelling Group, University of Cambridge</a>. </p>
+                <h1 id="epidemiology-and-modelling-group-university-of-cambridge">Epidemiology and Modelling Group, <br>University of Cambridge</h1>
+<p>We develop epidemiological models to predict the spread of plant disease epidemics and to identify and optimise economically and ecologically sustainable strategies for disease management.</p>
 <video width="100%" controls>
 <source src="images/MOV_scenario_8_case_0_job0.mp4?dl=0" type="video/mp4">
 </video>
 
 <p><em>Simulated spread of CBSD from Cameroon to Nigeria. Preliminary results.</em></p>
-<p>Initially, this repository will focus on Cassava Brown Streak Disease (CBSD). Cassava is a staple crop for approximately 500 million people in sub-Saharan Africa. </p>
-<p>CBSD has been endemic in coastal East Africa and along the shore of Lake Malawi since the 1930s. In 2004, CBSD was observed near Kampala, Uganda. Since
-2004, it has spread widely throughout previously uninfected regions and threatens production in Central and West Africa. </p>
-<p>Our research focusses on predicting future spread and optimal management strategies to counteract spread in endemic and currently uninfected regions.</p>
+<p>Plant disease epidemics cause major economic shocks and reductions in food production. Epidemics can be especially harmful in developing countries where communities are often highly dependant on agriculture for subsistence and household income.</p>
+<p><strong>For the latest list of our publications, please <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=GriJOGgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">visit Google Scholar.</a></strong></p>
 <h1 id="about-us">About us</h1>
-<p>Plant Epidemics is maintained by David Godding and Dr Rich Stutt, members of the <a href="https://www.plantsci.cam.ac.uk/research/chrisgilligan">Epidemiology and Modelling Group</a>. The group is led by Professor Chris Gilligan. Feel free to get in touch if you have any questions.</p>
-<h2 id="contacts">Contacts</h2>
+<p>This website is a repository for the research, predictions, and management simulations generated by the lab. The group is led by <a href="https://www.plantsci.cam.ac.uk/directory/gilligan-chris">Professor Chris Gilligan</a>. We are based in the Department of Plant Sciences at the University of Cambridge. Please <a href="people/">click here for a full list of group members and their research.</a></p>
+<h1 id="contact-us">Contact us</h1>
 <ul>
-<li>David Godding: <a href="mailto:dsg38@cam.ac.uk">dsg38@cam.ac.uk</a></li>
-<li>Dr Rich Stutt: <a href="mailto:rs481@cam.ac.uk">rs481@cam.ac.uk</a></li>
 <li>Professor Chris Gilligan: <a href="mailto:cag1@cam.ac.uk">cag1@cam.ac.uk</a></li>
 </ul>
-<h2 id="funders-and-partners">Funders and partners</h2>
-<p>This work is funded by The Bill and Melinda Gates Foundation. We work closely with a number of partner research organisations.</p>
-<ul>
-<li>The <a href="http://wave-edu.org">West African Virus Epidemiology project</a> (WAVE) is coordinated in Côte D'Ivoire and works throughout West and Central Africa.</li>
-<li><a href="http://www.nacrri.go.ug/">The National Crops Resources Research Institute</a> (NaCRRI), Uganda</li>
-<li>The Cassava Diagnostics Project (CDP) is coordinated by the Mikocheni Agricultural Research Institute in Tanzania and works throughout East Africa. </li>
-</ul>
+<p>Location of the Department of Plant Sciences, University of Cambridge:</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9780.973635628978!2d0.1215365!3d52.202624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xeed3c7024087483e!2sDepartment+of+Plant+Sciences%2C+University+of+Cambridge!5e0!3m2!1sen!2suk!4v1549911810214" width="500" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<p><br></p>
+<p><img src="../images/cam.jpg" width="300"/></p>
               
             </div>
           </div>
@@ -140,7 +145,7 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="cbsd/" class="btn btn-neutral float-right" title="Cassava Brown Streak Disease">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="research/overview/" class="btn btn-neutral float-right" title="Overview">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
     </div>
@@ -168,19 +173,18 @@
       
       
       
-        <span style="margin-left: 15px"><a href="cbsd/" style="color: #fcfcfc">Next &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="research/overview/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>
     <script>var base_url = '.';</script>
-    <script src="./js/theme.js"></script>
-      <script src="./search/require.js"></script>
-      <script src="./search/search.js"></script>
+    <script src="js/theme.js" defer></script>
+      <script src="search/main.js" defer></script>
 
 </body>
 </html>
 
 <!--
-MkDocs version : 0.17.3
-Build Date UTC : 2018-09-26 16:34:46
+MkDocs version : 1.0.4
+Build Date UTC : 2019-02-11 19:37:37
 -->
